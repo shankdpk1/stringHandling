@@ -11,7 +11,7 @@ public class StringTest {
 		charArray= strValue.toCharArray();
 		for(int j=0;j<charArray.length;j++) {
 		
-//temp comment 2nd	
+//temp comment new branch	
 		for(int i=0; i<charArray.length;i++ )
 		{
 			if(charArray[position]==charArray[i])
