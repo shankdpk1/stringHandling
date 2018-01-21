@@ -10,7 +10,8 @@ public class StringTest {
 		int counter=0;
 		charArray= strValue.toCharArray();
 		for(int j=0;j<charArray.length;j++) {
-			
+		
+//temp comment	
 		for(int i=0; i<charArray.length;i++ )
 		{
 			if(charArray[position]==charArray[i])
